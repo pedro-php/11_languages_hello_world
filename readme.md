@@ -6,18 +6,15 @@
 
 #### 1. C 
 Compile: `gcc helloworld.c -o helloworld`
-
 Run: `./helloworld`
 
 #### 2. C++
 Compile: `g++  -o helloworld_cpp helloworld.cpp`
-
 Run: `./helloworld_cpp`
 
 #### 3. Java
-Compile: `javac helloworld.java`
-
-Run: `./helloworld`
+Compile: `javac HelloWorld.java`  
+Run: `java HelloWorld`
 
 #### 4. Go
 
@@ -47,8 +44,8 @@ Run: `perl helloworld.pl`
 
 #### 10. Shell Script
 
-Run: `sh helloworld.sh"`
+Run: `sh helloworld.sh`
 
 #### 11. HTML
 
-Just download and open the file my man :-)**
+Open the file in a web browser.
